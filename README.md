@@ -12,3 +12,7 @@ https://www.youtube.com/watch?v=SXBG3RGr_Rc
 opencv KNN
 
 http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_ml/py_knn/py_knn_understanding/py_knn_understanding.html
+
+
+
+**euclidean vs cosine distance** for search and comparison
